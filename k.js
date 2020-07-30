@@ -5,8 +5,8 @@ var cron=require('node-cron');
 
 var con=mysql.createConnection({
   host:"localhost",
-  user:"tyagiv39",
-  password:"7910",
+  user:"  ",
+  password:"  ",
   database:"mydb"
 })
 
